@@ -1,0 +1,31 @@
+body {
+  background-color: #E8E8CC;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+}
+
+h1, h3 {
+  color: #FF7800;
+}
+
+.pawanimage {
+  border-radius: 100%;
+}
+
+.name:hover {
+  background-color: powderblue;
+  transition: background-color 3s;
+  inline-size: 300px;
+  overflow: hidden;
+}
